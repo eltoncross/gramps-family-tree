@@ -1,2 +1,2 @@
-FROM ghcr.io/gramps-project/gramps-web:latest  # GitHub Container Registry mirror
+FROM ghcr.io/gramps-project/gramps-web:latest
 COPY family_tree.gpkg /app/static/
