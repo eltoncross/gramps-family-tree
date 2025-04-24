@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: gramps-web
+    runtime: docker
+    dockerfile: Dockerfile
+    plan: free
