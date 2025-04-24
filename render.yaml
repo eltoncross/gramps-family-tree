@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: gramps-web
+    name: gramps-family-tree
     runtime: docker
     dockerfile: Dockerfile
     plan: free
