@@ -1,2 +1,2 @@
-FROM grampsproject/gramps-family-tree:latest
+FROM grampsproject/gramps-web:latest
 COPY Family_Tree.gpkg /app/static/
